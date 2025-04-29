@@ -1,0 +1,6 @@
+name: Pagination
+fields:
+  page:
+    type: number
+  pageSize:
+    type: number 

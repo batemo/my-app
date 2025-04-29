@@ -1,0 +1,12 @@
+name: user
+fields:
+  id:
+    type: string
+    primary: true
+  email:
+    type: string
+    unique: true
+  name:
+    type: string
+  createdAt:
+    type: datetime 
