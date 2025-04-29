@@ -1,7 +1,0 @@
-name: getUser
-request:
-  id:
-    type: string
-response:
-  user:
-    $ref: ../database/user.yaml 
