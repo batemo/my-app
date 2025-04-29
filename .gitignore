@@ -1,0 +1,71 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables files
+.env*
+
+# Next.js build output
+.next/
+out/
+
+# Next.js static export
+out/
+
+# Next.js build cache
+.next/cache/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Convex build output
+.convex/build/
+
+# Convex generated types
+convex/_generated/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Build output
+build/
+dist/
+
+# Misc
+*.swp
+*.swo
+
+# Yarn v2
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.* 
